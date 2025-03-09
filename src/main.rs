@@ -1,8 +1,8 @@
 //! wat is a command line tool that uses llms to get information about a file on disk.
 use std::env;
 
-use clap::builder::ArgPredicate;
 use clap::Parser;
+use clap::builder::ArgPredicate;
 use eyre::Result;
 
 mod text_gen;
