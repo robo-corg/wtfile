@@ -46,6 +46,6 @@ Key points about /etc/magic.mime:
 This file is important for proper file type detection and handling in Unix/Linux systems, especially for web servers and email systems that need to properly identify file types.
 ```
 
-## Wby I built this
+## Why I built this
 
 Mostly as an experiment to see what sort of tools can be built with llms that actually might be useful.
